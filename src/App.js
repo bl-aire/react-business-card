@@ -1,8 +1,8 @@
 import './App.css';
-import Info from './info';
-import About from './about';
-import Interest from './interest';
-import Footer from './footer';
+import Info from './components/info';
+import About from './components/about';
+import Interest from './components/interest';
+import Footer from './components/footer';
 
 function App() {
   return (
