@@ -3,11 +3,13 @@
   color: #ffffff;
   background-color: #1A1B21;
   width: 70vw;
-  height: 80vh;
+  height: 90vh;
+  border-radius: 0.5em;
+  margin: 3em 0 0 0;
 }
 
 img {
-  height: 8em;
+  height: 317px;
 }
 
 .info {
