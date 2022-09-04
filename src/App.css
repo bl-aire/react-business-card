@@ -6,11 +6,33 @@
   height: 80vh;
 }
 
+img {
+  height: 8em;
+}
+
 .info {
   display: flex;
   flex-direction: column;
 }
 
+.name {
+  height:25.81px;
+  line-height: 30.26px;
+  font-weight: 700;
+}
+
+.role {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  color: #F3BF99;
+}
+
+button {
+  padding:0.2em 2em;
+  margin: 1em 6em;
+}
 
 
 
